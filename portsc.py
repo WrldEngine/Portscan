@@ -1,6 +1,6 @@
 import socket
 import os
-cyan='\033[36m'
+cyan='\033[0;35m'
 yellow='\033[33m'
 red='\033[31m'
 def cls():
